@@ -23,8 +23,13 @@ A machine learning dashboard for predicting server failure risk using telemetry 
 - Pandas
 - Plotly
 
+## Note
+
+Dataset not included due to size.
+
 ## Running Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
